@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Minha Fathima T 👋
 
-<!--
-**minhafathimandr-web/minhafathimandr-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science Student at VIT Chennai
 
-Here are some ideas to get you started:
+## About Me
+Aspiring Data Scientist passionate about Machine Learning, Big Data Analytics, Artificial Intelligence, and Data Visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- SQL
+- R
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- NLTK
+- MongoDB (Basic)
+
+## Projects
+
+### Rule-Based Expert System for Early Detection of Mental Health Disorders
+- Developed a rule-based expert system using Python.
+- Built a Tkinter GUI for user interaction.
+- Generated automated PDF diagnosis reports.
+
+### Wavelets on Zn – Mathematical Modeling Project
+- Constructed wavelet bases on finite cyclic groups.
+- Applied Fourier Transform for signal decomposition and reconstruction.
+- Explored signal processing applications.
+
+## Currently Learning
+- Big Data Analytics
+- Apache Hadoop
+- Apache Spark
+- Deep Learning
+
+## Certifications
+- Essential Mathematics for Machine Learning (NPTEL)
+- Cloud Computing (NPTEL)
+- MongoDB Schema, Indexes and Queries (Infosys Springboard)
+- Agentic AI and Autonomous Intelligent Systems Workshop
+
+## Connect With Me
+📧 Email: minhafathimandr@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/minha-fathima-t-688511296
