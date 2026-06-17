@@ -3,7 +3,7 @@
 🎓 MSc Data Science Student at VIT Chennai
 
 ## About Me
-Aspiring Data Scientist passionate about Machine Learning, Big Data Analytics, Artificial Intelligence, and Data Visualization.
+Aspiring Data Scientist passionate about Machine Learning, Big Data Analytics, Statistical Analysis, Artificial Intelligence, and Data Visualization.
 
 ## Technical Skills
 - Python
@@ -33,6 +33,7 @@ Aspiring Data Scientist passionate about Machine Learning, Big Data Analytics, A
 - Apache Hadoop
 - Apache Spark
 - Deep Learning
+- Natuaral Language Processing
 
 ## Certifications
 - Essential Mathematics for Machine Learning (NPTEL)
